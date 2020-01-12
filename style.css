@@ -1,0 +1,41 @@
+
+.body {
+    font-family: 'Roboto', sans-serif; /* roboto google font*/
+    /*https://www.materialui.co*/
+    background-color: #84FFFF;
+
+}
+
+.input {
+width: 100%;
+font-size: 40px;
+text-align : center;
+
+}
+
+.title{
+text-align : center;
+text-transform: uppercase;
+/*go to the paletton.com.copy your bgcolor and site will suggest the color combination.*/
+color : #80D8FF;
+font-size : 56px;
+
+}
+
+.result {
+    text-align : center;
+    border : 1px solid initial;
+    border-style: inset;
+    margin-top: 25px;
+    height : 50px;
+    width : 100%;
+    background-color: #fff;
+    font-size : 40px;
+
+
+}
+.version {
+    text-align : center;
+    color : #fff;
+    margin-top : 10px;
+};
